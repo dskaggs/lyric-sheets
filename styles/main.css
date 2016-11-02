@@ -1,0 +1,25 @@
+.line{
+    line-height: 40px;
+    margin-top: 15px;
+}
+
+.chord{
+    font-family: "Courier New";
+    font-weight: bold;
+    color: #ff0000;
+    position:relative;
+    top:-15px;
+}
+
+.chord-1-char{
+    margin-right: -8px;
+}
+
+.chord-2-char{
+    margin-right: -18px;
+}
+
+.chord-3-char{
+    margin-right: -28px;
+}
+
